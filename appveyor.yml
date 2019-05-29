@@ -3,6 +3,9 @@ environment:
   TOKEN:
     secure: 7vdY1FDIcMA9+2GbVc/cmQSEDVPeypkvbLAkK1M7RzHyBuVBZh3wdLy5dElG3K7G
 
+before_build:
+  - ps: cup chocolatey --pre -y
+  
 build_script:
   - ps: choco pack
 
