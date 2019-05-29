@@ -9,7 +9,7 @@
     <title>Amazon Workspaces</title>
     <authors>Amazon Web Services, Inc.</authors>
     <projectUrl>https://clients.amazonworkspaces.com/</projectUrl>
-    <iconUrl>https://cdn.staticaly.com/gh/virtualex-itv/choco-amazon-workspaces/c9015b73/_icon/workspaces.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/virtualex-itv/choco-amazon-workspaces/9a1565b5902f5691d4f7c92aa06f295f59e7f134/_icon/workspaces.png</iconUrl>
     <copyright>Copyright © 2019, Amazon Web Services, Inc.</copyright>
     <licenseUrl>https://aws.amazon.com/terms/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
