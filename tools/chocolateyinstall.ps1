@@ -14,12 +14,9 @@ $validExitCodes		= @(0)
 	  unzipLocation		= $toolsDir
 	  fileType			= $fileType
 	  url				= $url
-	  url64bit			= $url64bit
 	  softwareName		= $softwareName
 	  checksum      	= $checksum
 	  checksumType		= $checksumType
-	  checksum64      	= $checksum64
-	  checksumType64	= $checksumType64
 	  silentArgs		= $silentArgs
 	  validExitCodes	= $validExitCodes
 	}
