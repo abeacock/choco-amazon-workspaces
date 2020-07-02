@@ -1,6 +1,5 @@
 $ErrorActionPreference	= 'Stop';
 $toolsDir	= "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$packageName	= 'amazon-workspaces'
 $fileType	= 'msi'
 $url	= 'https://d2td7dqidlhjx7.cloudfront.net/prod/global/windows/Amazon+WorkSpaces.msi'
 $softwareName	= "Amazon WorkSpaces*"
