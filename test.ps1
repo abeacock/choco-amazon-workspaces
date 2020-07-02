@@ -29,7 +29,7 @@ if ($zip.Entries.Count -ne 6) {
 $zip.Dispose()
 
 "TEST: Installation of package should work"
-. choco install -y amazon-workspaces -source . -version $version
+. choco install -y amazon-workspaces -source . --version $version
 
 "TEST: Uninstallation of package should work"
 . choco uninstall -y amazon-workspaces -source .
