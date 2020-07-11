@@ -4,7 +4,7 @@ $packageName	= 'amazon-workspaces'
 $fileType	= 'msi'
 $url	= 'https://d2td7dqidlhjx7.cloudfront.net/prod/global/windows/Amazon+WorkSpaces.msi'
 $softwareName	= "Amazon WorkSpaces*"
-$checksum	= '0C75B3FE1CAFEC70B6D9F3422A45E50E5251A2C7FF501FD17A625AF512196C54'
+$checksum	= '8F29CF689BDF9E2F800AAAF5E996A369FC761AC5A4AB45AEEC18DB91A1CA0F39'
 $checksumType	= 'sha256'
 $silentArgs	= '/qn REBOOT=ReallySuppress'
 $validExitCodes		= @(0)
