@@ -3,20 +3,22 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>amazon-workspaces</id>
-    <version>2.5.11</version>
+    <version>3.0.7</version>
 	<packageSourceUrl>https://github.com/virtualex-itv/choco-amazon-workspaces/tree/master/</packageSourceUrl>
     <owners>virtualex</owners>
     <title>Amazon Workspaces</title>
     <authors>Amazon Web Services, Inc.</authors>
     <projectUrl>https://clients.amazonworkspaces.com/</projectUrl>
     <iconUrl>https://rawcdn.githack.com/virtualex-itv/choco-amazon-workspaces/9a1565b5902f5691d4f7c92aa06f295f59e7f134/_icon/workspaces.png</iconUrl>
-    <copyright>Copyright © 2019, Amazon Web Services, Inc.</copyright>
+    <copyright>Copyright © 2020, Amazon Web Services, Inc.</copyright>
     <licenseUrl>https://aws.amazon.com/terms/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
 	<docsUrl>https://docs.aws.amazon.com/workspaces/latest/userguide/amazon-workspaces-clients.html</docsUrl>
     <tags>amazon workspaces aws</tags>
     <summary>Amazon WorkSpaces plays nice with everyone. Access your personal Windows environment on Android, iOS, Fire, Mac, PC and Chromebook devices.</summary>
-    <description>Amazon WorkSpaces plays nice with everyone. Access your personal Windows environment on Android, iOS, Fire, Mac, PC and Chromebook devices.</description>
+    <description>Amazon WorkSpaces plays nice with everyone. Access your personal Windows environment on Android, iOS, Fire, Mac, PC and Chromebook devices.
+	
+	Please see the [**README**](https://github.com/virtualex-itv/choco-amazon-workspaces) for chocolatey-test-environment installation.</description>
     <releaseNotes>https://docs.aws.amazon.com/workspaces/latest/userguide/amazon-workspaces-windows-client.html#windows-release-notes</releaseNotes>
   </metadata>
   <files>
