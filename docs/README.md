@@ -11,4 +11,4 @@
 Chocolatey package for Amazon Workspaces
 
 ---
-![ChocoTestEnvInstall](https://rawcdn.githack.com/virtualex-itv/choco-amazon-workspaces/24e60800dd59a954cb0fde783b1eea83b4d60b6b/_img/choco-aws-test.png)
+![ChocoTestEnvInstall](https://rawcdn.githack.com/virtualex-itv/choco-amazon-workspaces/ee2e68654d5a3dcb76c3285979d4933b599fff55/_img/choco-aws-test.png)
